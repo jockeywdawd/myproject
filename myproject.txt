@@ -1,1 +1,1 @@
-0: https://github.com/jockeywdawd/myproject/releases/download/aw/deneme.exe
+1: https://github.com/jockeywdawd/myproject/releases/download/aw/deneme.exe
